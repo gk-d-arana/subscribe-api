@@ -1,4 +1,4 @@
-Welcome To Laravel Code Template For Some Commin Advanced Stuff For Tech Tests.
+Welcome To Laravel Code Template For Some Common Advanced Stuff For Tech Tests.
 
 To Run The App Please Add Db credentials to your .env file
 
